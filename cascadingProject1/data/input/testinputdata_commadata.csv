@@ -1,0 +1,12 @@
+KeyField,SplitStringField,DateField,NumericField,DateField1
+1,test;value1,11/20/2015,50,1/14/2016
+2,String1;field1,,10,1/14/2016
+3,String2;split2,11/21/2015,20.67,1/14/2016
+4,"testvalue;split,key4",12/12/2015,50,1/14/2016
+5,"test,value2;split",12/12/2015,110,1/14/2016
+6,split1;split2,12/12/2015,,1/14/2016
+6,;,12/13/2015,0,1/14/2016
+7,String2;split2,1989-12-26,2000,1/14/2016
+8,String2;split2,1990/10/17,2000,1/14/2016
+9,String2;split2,4/14/2000,2efg,1/14/2016
+10,"String2,string3;split2",1/14/2016,2000,
