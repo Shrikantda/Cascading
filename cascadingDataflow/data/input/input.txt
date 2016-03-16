@@ -1,0 +1,11 @@
+store,product,sold,returned,date
+storeA,Product1,10,2,20110201
+storeB,Product1,20,5,20110203
+storeA,Product2,100,20,20110202
+storeB,Product2,50,1,20110131
+storeA,Product3,20,10,20110131
+storeB,Product3,10,3,20110131
+storeA,Product1,5,25,20110131
+storeA,Product1,17,42,20110131
+storeB,Product2,4,100,20110131
+storeB,Product2,56,450,20110131
